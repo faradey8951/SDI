@@ -9,7 +9,6 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 =====================================
 * Current version known issues:
--------------------------------------
   - Output audio device can't be
   changed
   - Play glitches, when mp3 decoding,
