@@ -6,7 +6,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 * Current Version: 0.1 Beta
 -----------------------------
 
-=====================================
+-----------------------------
 * Current version known issues:
   - Output audio device can't be
   changed
@@ -23,4 +23,4 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - App freezes randomly, when mp3
   decodes on slow 2-core CPU
   
-=====================================
+-----------------------------
