@@ -3,9 +3,8 @@
 Soundcard Data Interface is source-closed project based on idea to transfer data using sound card
 
 =============================
-* Current Version: 0.1 Beta;
+* Current Version: 0.1 Beta
 =============================
-
 
 =====================================
 * Current version known issues:
