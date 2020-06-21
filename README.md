@@ -26,4 +26,5 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 Manuals:
+- Prepairing
 https://github.com/faradey8951/SDI/blob/master/Manuals/Preparing.pdf
