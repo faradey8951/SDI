@@ -17,6 +17,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   if signal has much errors
   - Programm freezes sometimes, when
   it hidden (hidding currently rejected)
+  - App crashes if it starts without any input device or it disconnected
 -----------------------------
 
 -----------------------------
