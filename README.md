@@ -23,3 +23,6 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - Random app crashes
   - Broken debug logging (currently unavailable)
 -----------------------------
+
+-----------------------------
+Manuals:
