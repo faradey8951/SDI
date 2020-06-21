@@ -30,6 +30,8 @@ You may support the project with donation
 - Donation https://www.paypal.me/SDIproject
 -----------------------------
 
+Also, you may help me with translation (see Lang directory)
+
 -----------------------------
 Current text encoding langs list:
 - Русский
