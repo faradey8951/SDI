@@ -40,6 +40,11 @@ Current app langs list:
 -----------------------------
 
 -----------------------------
+For cassette tapes:
+- Set rec level about -10dB or less
+-----------------------------
+
+-----------------------------
 Manuals:
 - Prepairing https://github.com/faradey8951/SDI/blob/master/Manuals/Preparing.pdf
 - How to encode text data https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20text%20data.pdf
