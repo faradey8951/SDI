@@ -15,14 +15,11 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - Play glitches, when mp3 decoding,
   if signal has much errors
   - 38 bit mp3 data-blocks can't be
-  error-checked properly
+  error-checked properly (currently fixed)
   - Programm freezes sometimes, when
-  it hidden
-  - Strange RAM leakage, when long
-  time mp3 decoding or app hidden
+  it hidden (hidding currently rejected)
   - Data drop outs, when mp3 decodes
   on slow 2-core CPU
-  - App freezes randomly, when mp3
-  decodes on slow 2-core CPU
+  -
   
 -----------------------------
