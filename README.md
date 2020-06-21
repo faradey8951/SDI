@@ -28,3 +28,13 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 Manuals:
 - Prepairing
 https://github.com/faradey8951/SDI/blob/master/Manuals/Preparing.pdf
+-How to encode text data
+https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20text%20data.pdf
+-How to encode mp3
+https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20mp3.pdf
+-Playing encoded sound
+https://github.com/faradey8951/SDI/blob/master/Manuals/Playing%20encoded%20sound.pdf
+-Capturing and decoding data
+https://github.com/faradey8951/SDI/blob/master/Manuals/Capturing%20and%20decoding%20data.pdf
+-Encoded signal basics and adjustments
+https://github.com/faradey8951/SDI/blob/master/Manuals/Encoded%20signal%20basics%20and%20adjustments.pdf
