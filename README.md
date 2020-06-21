@@ -20,6 +20,6 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   it hidden (hidding currently rejected)
   - Data drop outs, when mp3 decodes
   on slow 2-core CPU
-  -
-  
+  - Random app crashes
+  - Broken debug logging (currently unavailable)
 -----------------------------
