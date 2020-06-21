@@ -6,7 +6,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 * Current Version: 0.1 Beta
-- Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip
+- Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip?raw=true
 -----------------------------
 
 -----------------------------
