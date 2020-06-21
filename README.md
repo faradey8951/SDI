@@ -33,3 +33,10 @@ Manuals:
 - Capturing and decoding data https://github.com/faradey8951/SDI/blob/master/Manuals/Capturing%20and%20decoding%20data.pdf
 - Encoded signal basics and adjustments https://github.com/faradey8951/SDI/blob/master/Manuals/Encoded%20signal%20basics%20and%20adjustments.pdf
 -----------------------------
+
+-----------------------------
+Licence:
+- You may share this project
+- You are not allowed to sell this project
+- You are not allowed to copy and steal the source code (some source code peaces may be published by me, if needed)
+-----------------------------
