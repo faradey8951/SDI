@@ -25,6 +25,18 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 
 -----------------------------
+Current text encoding langs list:
+- Русский
+- English
+-----------------------------
+
+-----------------------------
+Current app langs list:
+- Русский
+- English
+-----------------------------
+
+-----------------------------
 Manuals:
 - Prepairing https://github.com/faradey8951/SDI/blob/master/Manuals/Preparing.pdf
 - How to encode text data https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20text%20data.pdf
