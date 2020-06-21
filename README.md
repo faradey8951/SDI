@@ -25,6 +25,12 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 
 -----------------------------
+You may support the project with donation
+- You will be put into project co-member list
+- Donation https://www.paypal.me/SDIproject
+-----------------------------
+
+-----------------------------
 Current text encoding langs list:
 - Русский
 - English
