@@ -18,6 +18,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - Programm freezes sometimes, when
   it hidden (hidding currently rejected)
   - App crashes if it starts without any input device or it disconnected
+  - Incorrect errors accounting with MP3 data
 -----------------------------
 
 -----------------------------
