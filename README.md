@@ -21,6 +21,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - Incorrect errors accounting with MP3 data
   - RAM leaking, when data being awaited after successful decoding
   - App crashes sometimes, when try to play encoded file
+  - App freezes when mp3 starts playing
 -----------------------------
 
 -----------------------------
