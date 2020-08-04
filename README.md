@@ -28,7 +28,9 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 You may support the project with donation
-- You will be put into project co-member list
+- You will be put into the official project's partners list
+- Current Official Project's Partners List:
+  * Keith Aumann
 - Donation https://www.paypal.me/SDIproject
 -----------------------------
 
