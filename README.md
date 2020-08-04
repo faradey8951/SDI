@@ -23,6 +23,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
   - App crashes sometimes, when try to play encoded file
   - App freezes when mp3 starts playing
   - Mp3 clearing does not it immediately
+  - Incorrect 16-bit Hamming Code branch
 -----------------------------
 
 -----------------------------
