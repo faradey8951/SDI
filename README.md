@@ -14,7 +14,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 -----------------------------
-- New features & changes
+- New features & changes:
  * Block data field square size changed
  * Group box controls size changed
  * Sync level and signal border settings have been removed
@@ -34,7 +34,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
  * Improved much code branches, created classes instead of methods
  * Updated audio devices enumerators. Now audio input/output device may be selected correctly. App can't be run, if at least one output or input audio device doesn't exist
 
-- Fixes
+- Fixes:
  * Incorrect error analyzing system for 38-bit data blocks
  * App crashes, if decoding signal has much errors
  * App crashes sometimes, when try to play encoded file
