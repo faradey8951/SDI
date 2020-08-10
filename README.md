@@ -76,8 +76,8 @@ For cassette tapes:
 -----------------------------
 
 -----------------------------
-Manuals:
-
+User Manual:
+- https://github.com/faradey8951/SDI/blob/master/User%20Manual.pdf
 -----------------------------
 
 -----------------------------
