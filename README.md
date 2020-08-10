@@ -5,25 +5,13 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 
 -----------------------------
-* Current Version: 0.1 Beta
+* Current Version: 0.2 Beta
 - Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip?raw=true
 -----------------------------
 
 -----------------------------
 * Current version known issues:
-  - Output audio device can't be
-  changed
-  - Play glitches, when mp3 decoding,
-  if signal has much errors
-  - Programm freezes sometimes, when
-  it hidden (hidding currently rejected)
-  - App crashes if it starts without any input device or it disconnected
-  - Incorrect errors accounting with MP3 data
-  - RAM leaking, when data being awaited after successful decoding
-  - App crashes sometimes, when try to play encoded file
-  - App freezes when mp3 starts playing
-  - Mp3 clearing does not it immediately
-  - Incorrect 16-bit Hamming Code branch
+
 -----------------------------
 
 -----------------------------
@@ -55,12 +43,7 @@ For cassette tapes:
 
 -----------------------------
 Manuals:
-- Prepairing https://github.com/faradey8951/SDI/blob/master/Manuals/Preparing.pdf
-- How to encode text data https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20text%20data.pdf
-- How to encode mp3 https://github.com/faradey8951/SDI/blob/master/Manuals/How%20to%20encode%20mp3.pdf
-- Playing encoded sound https://github.com/faradey8951/SDI/blob/master/Manuals/Playing%20encoded%20sound.pdf
-- Capturing and decoding data https://github.com/faradey8951/SDI/blob/master/Manuals/Capturing%20and%20decoding%20data.pdf
-- Encoded signal basics and adjustments https://github.com/faradey8951/SDI/blob/master/Manuals/Encoded%20signal%20basics%20and%20adjustments.pdf
+
 -----------------------------
 
 -----------------------------
