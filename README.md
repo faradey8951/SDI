@@ -14,38 +14,38 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 -----------------------------
-* New features & changes
- - Block data field square size changed
- - Group box controls size changed
- - Sync level and signal border settings have been removed
- - One level setting replaced into decoder settings group box on decoder menu page
- - Implemented more stable signal sync analyzer
- - Corrected available amplitude buffer sizes to fixed values
- - Now text data can be decoded on 16-bit amplitude buffer size only
- - Implemented correlation correction and signal smoothing algorithm (see "encoded signal basics and adjustments")
- - App may be hidden now without RAM leaking and freezing
- - Input and output audio devices list update automatically
- - MP3 player now uses WasapiOut instead of WaveOut feature to minimize delays and improve performance
- - Signal graph has been recoded that gives more stability and sets ram usage to minimal 
- - MP3 player now clears MemoryStream after playing that makes RAM usage to be safe
- - Error analyzer has been recoded fully and now being universal for any data block size
- - Implemented picture encoder that makes any picture less quality and being able to store on tape
- - Implemented special data block type - file marker (32-bit)
- - Improved much code branches, created classes instead of methods
- - Updated audio devices enumerators. Now audio input/output device may be selected correctly. App can't be run, if at least one output or input audio device doesn't exist
+- New features & changes
+ * Block data field square size changed
+ * Group box controls size changed
+ * Sync level and signal border settings have been removed
+ * One level setting replaced into decoder settings group box on decoder menu page
+ * Implemented more stable signal sync analyzer
+ * Corrected available amplitude buffer sizes to fixed values
+ * Now text data can be decoded on 16-bit amplitude buffer size only
+ * Implemented correlation correction and signal smoothing algorithm (see "encoded signal basics and adjustments")
+ * App may be hidden now without RAM leaking and freezing
+ * Input and output audio devices list update automatically
+ * MP3 player now uses WasapiOut instead of WaveOut feature to minimize delays and improve performance
+ * Signal graph has been recoded that gives more stability and sets ram usage to minimal 
+ * MP3 player now clears MemoryStream after playing that makes RAM usage to be safe
+ * Error analyzer has been recoded fully and now being universal for any data block size
+ * Implemented picture encoder that makes any picture less quality and being able to store on tape
+ * Implemented special data block type - file marker (32-bit)
+ * Improved much code branches, created classes instead of methods
+ * Updated audio devices enumerators. Now audio input/output device may be selected correctly. App can't be run, if at least one output or input audio device doesn't exist
 
-* Fixes
- - Incorrect error analyzing system for 38-bit data blocks
- - App crashes, if decoding signal has much errors
- - App crashes sometimes, when try to play encoded file
- - App freezes when mp3 starts playing
- - MP3 clearing does not it immediately
- - MP3 encoding can't be cancelled manually
- - Programm freezes sometimes, when it hidden
- - Output audio device can't be changed
- - RAM leaking, when data being awaited after successful decoding
- - Play glitches, when mp3 decoding, if signal has much errors
- - Incorrect 16-bit Hamming Code branch
+- Fixes
+ * Incorrect error analyzing system for 38-bit data blocks
+ * App crashes, if decoding signal has much errors
+ * App crashes sometimes, when try to play encoded file
+ * App freezes when mp3 starts playing
+ * MP3 clearing does not it immediately
+ * MP3 encoding can't be cancelled manually
+ * Programm freezes sometimes, when it hidden
+ * Output audio device can't be changed
+ * RAM leaking, when data being awaited after successful decoding
+ * Play glitches, when mp3 decoding, if signal has much errors
+ * Incorrect 16-bit Hamming Code branch
 -----------------------------
 
 -----------------------------
