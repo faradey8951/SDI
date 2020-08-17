@@ -12,6 +12,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 * Current version known issues:
     - Incorrect input audio devices indexing
+    - Incorrect text monitoring switcher for chat function
 -----------------------------
 -----------------------------
 * New features & changes:
