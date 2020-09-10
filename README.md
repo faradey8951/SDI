@@ -18,7 +18,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 	- Implemented changelog list at About window
 	- Implemented some settings saving feature
 	- Updated sync tracking system
-*Fixes:
+* Fixes:
 	- Incorrect input audio devices indexing
 	- Incorrect text monitoring switcher for chat function
 	- Not fully EncodedText.wav to EncodedData.wav substitution
