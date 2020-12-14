@@ -30,6 +30,7 @@ You may support the project with donation
 - You will be put into the official project's partners list
 - Current Official Project's Partners List:
   * Keith Aumann
+  * Mayank Mani Singh
 - Donation https://www.paypal.me/SDIproject
 -----------------------------
 
