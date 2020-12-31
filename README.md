@@ -25,9 +25,6 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 -----------------------------
 * In-development: v2.0.1.21 (January 2021)
-
-* Implemented features:
-	- Signal post-smoothing now works more accurately
 -----------------------------
 
 -----------------------------
