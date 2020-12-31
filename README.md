@@ -7,17 +7,11 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 * Current Version: v2.1.8.20 (August 2020)
 - Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip?raw=true
------------------------------
------------------------------
-* In-development: v2.0.1.21 (January 2021)
------------------------------
 
------------------------------
 * Current version known issues:
 	- Progress displaying error, when try to encode more then one picture/mp3 file
 	- Encoder data block buffer does not being cleared automatically
------------------------------
------------------------------
+	
 * New features & changes:
 	- Encoded data player now uses Wasapiout instead of Waveout (out of Windows XP support)
 	- Implemented changelog list at About window
@@ -28,6 +22,9 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 	- Incorrect text monitoring switcher for chat function
 	- Not fully EncodedText.wav to EncodedData.wav substitution
 	- Symbol library indexing error, causing cpu freezing
+-----------------------------
+-----------------------------
+* In-development: v2.0.1.21 (January 2021)
 -----------------------------
 
 -----------------------------
