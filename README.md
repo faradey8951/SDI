@@ -14,6 +14,8 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 
 -----------------------------
 * Current version known issues:
+	- Progress displaying error, when try to encode more then one picture/mp3 file
+	- Encoder data block buffer does not being cleared automatically
 -----------------------------
 -----------------------------
 * New features & changes:
