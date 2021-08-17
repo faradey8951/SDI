@@ -5,7 +5,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 
 -----------------------------
-* Current Version: v2.1.8.20 (August 2020)
+* Current Version: v2.1.8.21 (August 2021)
 - Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip?raw=true
 
 * Current version known issues:
