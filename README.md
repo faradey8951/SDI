@@ -5,7 +5,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 -----------------------------
 
 -----------------------------
-* Current Version: v2.1.8.21 (August 2021)
+* Current Version: v2.1.8.20 (August 2020)
 - Download: https://github.com/faradey8951/SDI/blob/master/SDI.zip?raw=true
 
 * Current version known issues:
@@ -24,7 +24,7 @@ Soundcard Data Interface is source-closed project based on idea to transfer data
 	- Symbol library indexing error, causing cpu freezing
 -----------------------------
 -----------------------------
-* In-development: v2.0.1.21 (January 2021)
+* In-development: v2.1.8.21 (August 2021)
 -----------------------------
 
 -----------------------------
